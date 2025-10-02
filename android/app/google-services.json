@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "562754871888",
+    "project_id": "ouzon-2ce7d",
+    "storage_bucket": "ouzon-2ce7d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562754871888:android:01d383332e3a5ef93c6755",
+        "android_client_info": {
+          "package_name": "com.example.assistantapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7Yhvvz1FjrCYxNu4NuWdDsYbOIIvSz2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562754871888:android:f7582ead3dcc427e3c6755",
+        "android_client_info": {
+          "package_name": "com.example.doctor_app_ouzoune"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7Yhvvz1FjrCYxNu4NuWdDsYbOIIvSz2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562754871888:android:ab65b4c3994d00d63c6755",
+        "android_client_info": {
+          "package_name": "com.example.ouzoun"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7Yhvvz1FjrCYxNu4NuWdDsYbOIIvSz2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
